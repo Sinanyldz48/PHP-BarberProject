@@ -1,1 +1,2 @@
-git branch -m master main
+Technologies Used in the Project: Php Mailer, with the help of the Appointment System, the user is sent an informational mailer.
+PHP PDO Structure is used. All static written information on the website is made dynamic and kept by the admin panel. Unauthorized entries are prevented. There is no admin creation panel, there is only one admin for security. The Web Site can be used for testing purposes http://sinanyldz.infinityfreeapp.com/ for testing purposes, you can reach and test. Thank you
